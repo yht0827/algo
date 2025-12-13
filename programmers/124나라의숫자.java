@@ -6,7 +6,8 @@ class Solution {
 		while (n > 0) {
 			int reminder = n % 3;
 			n /= 3;
-			if (reminder == 0) n--;
+			if (reminder == 0)
+				n--;
 			answer.append(trans[reminder]);
 		}
 		return answer.reverse().toString();
