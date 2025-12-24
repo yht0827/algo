@@ -26,3 +26,4 @@
 | 20 | [이모티콘할인행사](programmers/이모티콘할인행사.java) | 2025-12-20 |
 | 21 | [네트워크](programmers/네트워크.java) | 2025-12-22 |
 | 22 | [보석쇼핑](programmers/보석쇼핑.java) | 2025-12-23 |
+| 23 | [K번째수](programmers/K번째수.java) | 2025-12-24 |
