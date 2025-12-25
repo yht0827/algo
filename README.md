@@ -27,3 +27,4 @@
 | 21 | [네트워크](programmers/네트워크.java) | 2025-12-22 |
 | 22 | [보석쇼핑](programmers/보석쇼핑.java) | 2025-12-23 |
 | 23 | [K번째수](programmers/K번째수.java) | 2025-12-24 |
+| 24 | [다단계칫솔판매](programmers/다단계칫솔판매.java) | 2025-12-25 |
