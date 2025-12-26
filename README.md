@@ -28,3 +28,4 @@
 | 22 | [보석쇼핑](programmers/보석쇼핑.java) | 2025-12-23 |
 | 23 | [K번째수](programmers/K번째수.java) | 2025-12-24 |
 | 24 | [다단계칫솔판매](programmers/다단계칫솔판매.java) | 2025-12-25 |
+| 25 | [행렬의곱셈](programmers/행렬의곱셈.java) | 2025-12-26 |
